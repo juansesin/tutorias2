@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-04-01 00:03:58 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 00:31:03 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 00:33:02 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 00:53:04 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 00:54:15 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 00:55:47 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 01:11:19 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 01:11:38 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 01:11:55 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 01:12:17 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 08:03:52 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 08:15:51 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 08:28:35 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 08:29:36 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 09:08:36 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 09:51:23 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 09:52:08 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 09:52:22 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 09:52:50 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 09:53:09 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 09:53:23 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 09:56:49 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 09:57:24 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 09:57:54 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 10:09:36 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 10:12:52 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 10:22:52 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 10:35:36 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 10:47:34 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 10:55:16 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
+ERROR - 2019-04-01 11:01:39 --> Severity: Notice --> Undefined property: stdClass::$photo /home/servic/public_html/tutorias/application/modules/login/models/Login_model.php 39
